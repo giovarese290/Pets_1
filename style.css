@@ -1,0 +1,29 @@
+
+body{font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;}
+  
+  .Nav{background-color: lightgrey; padding: 12px; position: sticky; top: 0; margin-top: -5px;}
+  
+  .Home, .About, .Pets{background-color: grey; color: white; padding: 2px; display: inline-block; padding: 30px; margin-right: 3px; border: 1px solid black; margin-left: -11px;}
+  
+  .Left{background-color: blue; width: 29%; height: 1000px; float: left;}
+  
+  .Image{background-color: lavender; width: 100%; height: 200px;}
+  
+  .Menu{color: white; text-align: left; padding: 25px; margin-top: 75px;}
+  li{padding: 22px;}
+  
+  
+  
+  .Right{background-color: orange; width: 71%; height: 1000px; float: left; margin-right: -50px;}
+  
+  .Picture{width: 30%; height: 20%; float:left; margin-right: 18px; margin-bottom: 12px; margin-left: 30px; margin-top: 30px;}
+  
+  .Content{float; left; margin-right: 45px; margin-left: 45px; padding: 12px;}
+  
+  .Cards{background-color: lavender; width: 95%; height: 450px; margin-left: 28px;}
+  
+  .Card1, .Card2,.Card3{width: 30%; height: 320px; background-color: lightgreen; display: inline-block; margin: 10px; padding: 5px; margin-top: 55px;}
+  
